@@ -1,14 +1,12 @@
 rm(list = ls())
 # install.packages("MASS")
-set.seed(123456)
-  # Only change the RNG seed if you know what you're doing
 
+set.seed(123456)
 p <- 4
 s <- 2
 n <- 10
 (x <- round(rgamma(n, shape = p, scale = s), 2))
-  # Do not touch this definition, parameters
-x
+  # Do not touch this definition, nor the parameters
 # ?GammaDist
 
 
