@@ -1,6 +1,5 @@
-# Course in statistical inference (USC)
+# Course in statistical inference (USC, 2023)
 
 Fernando Castro-Prado
-2023
 
 Last update: 2.3.2023
