@@ -2,6 +2,8 @@
 
 Fernando Castro-Prado
 
-Last update: 8.3.2023
+Last update: 16.3.2023
+
+Companion website: https://sites.google.com/view/fernando-castro-prado/teaching/stat-325
 
 If you (think you may) have found any mistake, please email me to let me know. :)
