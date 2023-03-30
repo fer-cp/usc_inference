@@ -8,4 +8,4 @@ Companion website: https://sites.google.com/view/fernando-castro-prado/teaching/
 
 If you (think you may) have found any mistake, please email me to let me know. :)
 
-PLEASE GIVE ME YOUR FEEDBACK: https://forms.office.com/e/SGW9Tu2Tjs .
+Student survey: https://forms.office.com/e/SGW9Tu2Tjs .
